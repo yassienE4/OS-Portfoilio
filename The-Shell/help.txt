@@ -1,0 +1,24 @@
+MyShell User Manual
+-------------------
+
+cd [DIRECTORY]
+    Change current directory.
+    If no directory is provided, print current directory.
+
+dir [DIRECTORY]
+    List contents of directory.
+
+environ
+    List all environment variables.
+
+set VARIABLE VALUE
+    Set environment variable.
+
+echo [TEXT]
+    Display TEXT.
+
+help
+    Display this manual.
+
+quit
+    Exit the shell.
